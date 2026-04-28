@@ -1,0 +1,15 @@
+data/
+models/
+outputs/
+images/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
